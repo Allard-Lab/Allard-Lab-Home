@@ -1,7 +1,7 @@
 # Welcome to the Allard Lab Transcriptomics Docs
 
-This repository contains documentation for bioinformatics pipelines used by the Allard Lab at HMS. 
+This repository contains info for members of the Allard Lab at HMS, including documentation for bioinformatics pipelines.
 
-Please use the Wiki to read the docs.
+Please use the **Wiki** to read the docs.
 
 The most up-to-date scripts will always be on O2, please do not rely on repo scripts to be the latest version. 
